@@ -1,2 +1,2 @@
-# Quatit-Finance-Blog
+# Trading & Machine Learning 
 
